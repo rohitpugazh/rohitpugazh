@@ -28,8 +28,8 @@ A bit about my journey:
 ## 🎵 Now Playing on Spotify
 
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=xbdwn5lmnyrqnvqbpf8xkyzf7&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
+  <a href="https://open.spotify.com/user/xbdwn5lmnyrqnvqbpf8xkyzf7">
+    <img src="https://novatorem-eight.vercel.app/api/spotify" alt="Spotify Now Playing" />
   </a>
 </p>
 
