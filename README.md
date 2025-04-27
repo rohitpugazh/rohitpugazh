@@ -25,16 +25,6 @@ A bit about my journey:
 
 ---
 
-## 🎵 Now Playing on Spotify
-
-<p align="center">
-  <a href="https://open.spotify.com/user/xbdwn5lmnyrqnvqbpf8xkyzf7">
-    <img src="https://novatorem-eight.vercel.app/api/spotify" alt="Spotify Now Playing" />
-  </a>
-</p>
-
----
-
 ## 🛠️ Tech I'm Most Comfortable With
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) 
