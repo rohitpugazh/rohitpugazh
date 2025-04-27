@@ -1,4 +1,8 @@
-# 👋 Hey there, I'm Rohit!
+<p align="left">
+  <a href="https://github.com/rohitpugazh">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=750&color=F7941D&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Rohit+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+</p>
 
 Welcome to my corner of GitHub — where ideas turn into code and coffee turns into features.  
 I'm a passionate **Machine Learning Engineer | Software Developer** who loves building cool projects, solving real-world problems, and occasionally breaking things (in a good way).
@@ -6,8 +10,8 @@ I'm a passionate **Machine Learning Engineer | Software Developer** who loves bu
 When I'm not coding, you'll find me diving into:
 
 - 🏎️ **Formula 1** (Lando Norris & McLaren fan!)
-- ⚽ **Football** (Bleeding Blaugrana — Força Barça!)
-- 🎸 **Music** (mostly )
+- ⚽ **Football** (Bleeding Blaugrana — Força Barça! 💙❤️)
+- 🎸 **Music** (mostly guitar instrumentals and Linkin Park)
 - 🖥️ **Tech tinkering** (custom keyboards, gaming mice, you name it)
 - 🎮 **Gaming** (Valorant, Cyberpunk 2077, and epic single-player adventures)
 - 🧱 **Building LEGOs** (yes, even the big sets!)
@@ -18,6 +22,16 @@ A bit about my journey:
 - Did my undergrad in **Computer Science Engineering** at **VIT Vellore** 🏫
 - Started my career as a **Software Developer** and **Data Engineer** at **ION Group, Hyderabad** 💻
 - Currently chasing bigger dreams — doing my **Master's in Analytics** at **UC Berkeley** 🌉
+
+---
+
+## 🎵 Now Playing on Spotify
+
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=xbdwn5lmnyrqnvqbpf8xkyzf7&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
+  </a>
+</p>
 
 ---
 
@@ -43,7 +57,7 @@ A bit about my journey:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitpugazh&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitpugazh&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
