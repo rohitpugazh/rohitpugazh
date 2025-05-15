@@ -71,12 +71,6 @@ A bit about my journey:
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitpugazh&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Let's Connect!
 I'm always up for an interesting project, a new challenge, or just a chat about tech, music, or life.
 
